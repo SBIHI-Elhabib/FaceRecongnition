@@ -1,0 +1,1 @@
+cd /home/reda/Desktop;python read_angle.py
